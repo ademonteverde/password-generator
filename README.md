@@ -21,7 +21,7 @@ As an employee with access to sensitive data, I want to randomly generate a pass
 
 ### Link to GitHub Repository:
 
-[https://github.com/ademonteverde/tech_blog](https://github.com/ademonteverde/tech_blog)
+[https://github.com/ademonteverde/password-generator](https://github.com/ademonteverde/password-generator)
 
 ### Link to deployed application:
 
