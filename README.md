@@ -28,4 +28,4 @@ As an employee with access to sensitive data, I want to randomly generate a pass
 [https://ademonteverde.github.io/password-generator/](https://ademonteverde.github.io/password-generator/)
 ## License
 
-This project is licensed under the [MIT](https://github.com/ademonteverde/tech_blog/blob/main/LICENSE) License.
+This project is licensed under the [MIT](https://github.com/ademonteverde/password-generator/blob/main/LICENSE) License.
